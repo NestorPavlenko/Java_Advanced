@@ -1,0 +1,610 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="JavaAdvancedLesson7:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0603979f-e53c-48f2-bfc6-7957fd86cfbe" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Tag Library Descriptor" />
+        <option value="Class" />
+        <option value="Jsp File" />
+        <option value="Enum" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="28pepH0Iq4gLyayZjR0MJAwY0ij" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../JavaAdvancedLesson4" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.26738608" />
+    <property name="settings.editor.selected.configurable" value="web.server" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\pavle\IdeaProjects\JavaAdvancedLesson7\src\main\webapp\WEB-INF\pages" />
+      <recent name="C:\Users\pavle\IdeaProjects\JavaAdvancedLesson5\out\artifacts\JavaAdvancedLesson5_war_exploded\WEB-INF\classes\ua\lviv\lgs" />
+      <recent name="C:\Users\pavle\IdeaProjects\JavaAdvancedLesson5\target\classes\ua\lviv\lgs" />
+      <recent name="C:\Users\pavle\IdeaProjects\JavaAdvancedLesson5\web" />
+      <recent name="C:\Users\pavle\IdeaProjects\JavaAdvancedLesson5\web\WEB-INF" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\pavle\IdeaProjects\JavaAdvancedLesson7\src\main\web" />
+      <recent name="C:\Users\pavle\IdeaProjects\JavaAdvancedLesson7\src\main\webapp" />
+      <recent name="C:\Users\pavle\IdeaProjects\JavaAdvancedLesson7\src\main\web\WEB-INF" />
+      <recent name="C:\Users\pavle\IdeaProjects\JavaAdvancedLesson7\src\main\web\META-INF" />
+      <recent name="C:\Users\pavle\IdeaProjects\JavaAdvancedLesson7\src" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.62" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="JavaAdvancedLesson5:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/JavaAdvancedLesson5_war_exploded" />
+          </settings>
+        </artifact>
+        <artifact name="JavaAdvancedLesson7">
+          <settings>
+            <option name="CONTEXT_PATH" value="/JavaAdvancedLesson7" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="2fe57002-414f-4d8a-aae4-72d448ccfd69" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="54680" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+        <EnvironmentVariables>
+          <option name="NAME" value="" />
+          <option name="VALUE" value="" />
+          <option name="IS_PREDEFINED" value="false" />
+        </EnvironmentVariables>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="JavaAdvancedLesson5:war exploded" />
+          <artifact name="JavaAdvancedLesson7" />
+          <artifact name="JavaAdvancedLesson7:war exploded" />
+        </option>
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="JavaAdvancedLesson5:war" />
+          <artifact name="JavaAdvancedLesson5:war exploded" />
+          <artifact name="JavaAdvancedLesson7" />
+          <artifact name="JavaAdvancedLesson7:war exploded" />
+        </option>
+        <option name="MakeProject" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Remote" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="LOCAL" value="false" />
+      <deployment />
+      <server-settings>
+        <data>
+          <option name="targets">
+            <list>
+              <WatchedTargetModelImpl>
+                <option name="name" value="CONTEXT_XML" />
+                <option name="transportStagingTarget">
+                  <TransportTarget>
+                    <option name="id" value="a62cf96a-e2f6-40dd-b624-bfe7f1345e8d" />
+                    <id>a62cf96a-e2f6-40dd-b624-bfe7f1345e8d</id>
+                  </TransportTarget>
+                </option>
+                <option name="watchedLocalPath" value="" />
+                <watched-path />
+                <name>CONTEXT_XML</name>
+                <transport-target>
+                  <TransportTarget>
+                    <option name="id" value="a62cf96a-e2f6-40dd-b624-bfe7f1345e8d" />
+                    <id>a62cf96a-e2f6-40dd-b624-bfe7f1345e8d</id>
+                  </TransportTarget>
+                </transport-target>
+              </WatchedTargetModelImpl>
+              <StagingTargetModelImpl>
+                <option name="name" value="STAGING" />
+                <option name="stagingRemotePath" value="" />
+                <option name="transportStagingTarget">
+                  <TransportTarget>
+                    <option name="id" value="4bbec491-a0c9-4e35-9556-c4b6e7daa795" />
+                    <id>4bbec491-a0c9-4e35-9556-c4b6e7daa795</id>
+                  </TransportTarget>
+                </option>
+                <staging-path />
+                <name>STAGING</name>
+                <transport-target>
+                  <TransportTarget>
+                    <option name="id" value="4bbec491-a0c9-4e35-9556-c4b6e7daa795" />
+                    <id>4bbec491-a0c9-4e35-9556-c4b6e7daa795</id>
+                  </TransportTarget>
+                </transport-target>
+              </StagingTargetModelImpl>
+            </list>
+          </option>
+          <option name="transportHostId" />
+        </data>
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="TOMCAT_LOCALHOST_LOG_ID" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="56485" />
+        <option name="LOCAL" value="false" />
+      </RunnerSettings>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <module name="JavaAdvancedLesson5" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="index.jsp" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.621" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="openjdk-17">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/JavaAdvancedLesson7" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="JavaAdvancedLesson7:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/JavaAdvancedLesson7_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="656720d5-5a08-4087-905f-ba6f4155c298" />
+      </server-settings>
+      <log_file alias="Tomcat Manager Log" path="%IDEA_RUN:CATALINA_BASE%/logs/manager.*" />
+      <log_file alias="Tomcat Host Manager Log" path="%IDEA_RUN:CATALINA_BASE%/logs/host-manager.*" />
+      <log_file checked="false" alias="Tomcat Localhost Access Log" path="%IDEA_RUN:CATALINA_BASE%/logs/localhost_access_log.*" />
+      <log_file checked="false" alias="Tomcat Localhost Log" path="%IDEA_RUN:CATALINA_BASE%/logs/localhost.*" />
+      <log_file checked="false" alias="Tomcat Catalina Log" path="%IDEA_RUN:CATALINA_BASE%/logs/catalina.*" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="54680" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="MakeProject" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="JavaAdvancedLesson7:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0603979f-e53c-48f2-bfc6-7957fd86cfbe" name="Default Changelist" comment="" />
+      <created>1651918136587</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1651918136587</updated>
+      <workItem from="1651918137766" duration="507000" />
+      <workItem from="1651918663822" duration="748000" />
+      <workItem from="1651920161803" duration="994000" />
+      <workItem from="1651930989556" duration="9000" />
+      <workItem from="1651931016690" duration="1383000" />
+      <workItem from="1651933923136" duration="16000" />
+      <workItem from="1651933959520" duration="2159000" />
+      <workItem from="1651948419626" duration="362000" />
+      <workItem from="1651948803048" duration="52000" />
+      <workItem from="1651948863992" duration="92000" />
+      <workItem from="1651948968124" duration="897000" />
+      <workItem from="1651949995755" duration="58000" />
+      <workItem from="1651950082367" duration="1810000" />
+      <workItem from="1651951995821" duration="440000" />
+      <workItem from="1651952485904" duration="1650000" />
+      <workItem from="1651954162070" duration="2635000" />
+      <workItem from="1651956833350" duration="11713000" />
+      <workItem from="1652003317453" duration="590000" />
+      <workItem from="1652005864520" duration="310000" />
+      <workItem from="1652006199443" duration="150000" />
+      <workItem from="1652006429499" duration="95000" />
+      <workItem from="1652006552817" duration="71000" />
+      <workItem from="1652006635144" duration="2042000" />
+      <workItem from="1652008712608" duration="369000" />
+      <workItem from="1652009182399" duration="1470000" />
+      <workItem from="1652010831021" duration="1810000" />
+      <workItem from="1652013056389" duration="2673000" />
+      <workItem from="1652015853180" duration="70000" />
+      <workItem from="1652015991229" duration="720000" />
+      <workItem from="1652016753052" duration="26000" />
+      <workItem from="1652016786529" duration="2000" />
+      <workItem from="1652016803661" duration="32000" />
+      <workItem from="1652016855563" duration="167000" />
+      <workItem from="1652017093628" duration="1575000" />
+      <workItem from="1652033294288" duration="4000" />
+      <workItem from="1652033312042" duration="2417000" />
+      <workItem from="1652040062142" duration="35000" />
+      <workItem from="1652040205653" duration="16000" />
+      <workItem from="1652040496824" duration="434000" />
+      <workItem from="1652041042287" duration="140000" />
+      <workItem from="1652041257662" duration="16000" />
+      <workItem from="1652041282277" duration="497000" />
+      <workItem from="1652041795090" duration="27000" />
+      <workItem from="1652041836665" duration="64000" />
+      <workItem from="1652041925921" duration="58000" />
+      <workItem from="1652042005092" duration="14000" />
+      <workItem from="1652042037030" duration="5063000" />
+      <workItem from="1652049771525" duration="188000" />
+      <workItem from="1652049967106" duration="12000" />
+      <workItem from="1652050023968" duration="2004000" />
+      <workItem from="1652052080941" duration="211000" />
+      <workItem from="1652052380326" duration="2634000" />
+      <workItem from="1652097870251" duration="212000" />
+      <workItem from="1652098157662" duration="20000" />
+      <workItem from="1652098201477" duration="46000" />
+      <workItem from="1652098288544" duration="126000" />
+      <workItem from="1652098454337" duration="1287000" />
+      <workItem from="1652099902117" duration="8000" />
+      <workItem from="1652099917577" duration="157000" />
+      <workItem from="1652100166875" duration="37000" />
+      <workItem from="1652100222634" duration="133000" />
+      <workItem from="1652100388296" duration="218000" />
+      <workItem from="1652100687346" duration="201000" />
+      <workItem from="1652100934699" duration="1000" />
+      <workItem from="1652100940217" duration="530000" />
+      <workItem from="1652101501220" duration="30000" />
+      <workItem from="1652101546777" duration="201000" />
+      <workItem from="1652101784300" duration="231000" />
+      <workItem from="1652102040672" duration="841000" />
+      <workItem from="1652103240537" duration="13000" />
+      <workItem from="1652103287265" duration="214000" />
+      <workItem from="1652103683361" duration="889000" />
+      <workItem from="1652104607772" duration="355000" />
+      <workItem from="1652180401591" duration="730000" />
+      <workItem from="1652182374949" duration="4018000" />
+      <workItem from="1652209652302" duration="165000" />
+      <workItem from="1652209840901" duration="537000" />
+      <workItem from="1652210477639" duration="5000" />
+      <workItem from="1652210542558" duration="207000" />
+      <workItem from="1652210764850" duration="46000" />
+      <workItem from="1652210820855" duration="302000" />
+      <workItem from="1652211136769" duration="2268000" />
+      <workItem from="1652259741875" duration="816000" />
+      <workItem from="1652260665491" duration="670000" />
+      <workItem from="1652263999084" duration="223000" />
+      <workItem from="1652264265617" duration="15000" />
+      <workItem from="1652264484210" duration="1063000" />
+      <workItem from="1652265587042" duration="53000" />
+      <workItem from="1652265719631" duration="168000" />
+      <workItem from="1652265957220" duration="75000" />
+      <workItem from="1652266057018" duration="17000" />
+      <workItem from="1652266121941" duration="2550000" />
+      <workItem from="1652268733092" duration="58000" />
+      <workItem from="1652268826735" duration="1132000" />
+      <workItem from="1652270095483" duration="1078000" />
+      <workItem from="1652271285559" duration="147000" />
+      <workItem from="1652271465229" duration="100000" />
+      <workItem from="1652271578712" duration="31000" />
+      <workItem from="1652271647185" duration="3000" />
+      <workItem from="1652271657386" duration="169000" />
+      <workItem from="1652272741250" duration="2370000" />
+      <workItem from="1652303725272" duration="1801000" />
+      <workItem from="1652307672282" duration="1002000" />
+      <workItem from="1652476185372" duration="701000" />
+      <workItem from="1652646784778" duration="453000" />
+      <workItem from="1652647260923" duration="333000" />
+      <workItem from="1652648058297" duration="1241000" />
+      <workItem from="1652702087108" duration="2746000" />
+      <workItem from="1652707328329" duration="2013000" />
+      <workItem from="1652716002273" duration="1413000" />
+      <workItem from="1652717435658" duration="95000" />
+      <workItem from="1652717563802" duration="50000" />
+      <workItem from="1652717641342" duration="89000" />
+      <workItem from="1652717769449" duration="283000" />
+      <workItem from="1652718078470" duration="929000" />
+      <workItem from="1652719070537" duration="59000" />
+      <workItem from="1652719163462" duration="47000" />
+      <workItem from="1652719252165" duration="298000" />
+      <workItem from="1652719579104" duration="16000" />
+      <workItem from="1652734925507" duration="13000" />
+      <workItem from="1652734967099" duration="17000" />
+      <workItem from="1652735080242" duration="109000" />
+      <workItem from="1652735209836" duration="639000" />
+      <workItem from="1652735903218" duration="102000" />
+      <workItem from="1652736074270" duration="26000" />
+      <workItem from="1652736122243" duration="156000" />
+      <workItem from="1652736289264" duration="1008000" />
+      <workItem from="1652740315267" duration="143000" />
+      <workItem from="1652740496376" duration="192000" />
+      <workItem from="1652740722644" duration="187000" />
+      <workItem from="1652740951969" duration="49000" />
+      <workItem from="1652741019737" duration="22000" />
+      <workItem from="1652741058899" duration="57000" />
+      <workItem from="1652741136665" duration="102000" />
+      <workItem from="1652741284040" duration="68000" />
+      <workItem from="1652741380480" duration="46000" />
+      <workItem from="1652741445875" duration="592000" />
+      <workItem from="1652742078232" duration="84000" />
+      <workItem from="1652742290418" duration="68000" />
+      <workItem from="1652742391451" duration="26000" />
+      <workItem from="1652742480858" duration="52000" />
+      <workItem from="1652742629804" duration="31000" />
+      <workItem from="1652742697691" duration="84000" />
+      <workItem from="1652742820947" duration="54000" />
+      <workItem from="1652742909254" duration="76000" />
+      <workItem from="1652743053612" duration="52000" />
+      <workItem from="1652743206377" duration="78000" />
+      <workItem from="1652743352514" duration="37000" />
+      <workItem from="1652743416326" duration="21000" />
+      <workItem from="1652743452737" duration="120000" />
+      <workItem from="1652743593572" duration="179000" />
+      <workItem from="1652743830257" duration="46000" />
+      <workItem from="1652743891494" duration="3000" />
+      <workItem from="1652743957380" duration="664000" />
+      <workItem from="1652744695472" duration="18000" />
+      <workItem from="1652744726105" duration="8000" />
+      <workItem from="1652744795621" duration="57000" />
+      <workItem from="1652744883853" duration="10000" />
+      <workItem from="1652744922856" duration="38000" />
+      <workItem from="1652745003362" duration="12000" />
+      <workItem from="1652745020740" duration="68000" />
+      <workItem from="1652745118377" duration="31000" />
+      <workItem from="1652745157150" duration="24000" />
+      <workItem from="1652745195307" duration="180000" />
+      <workItem from="1652745394145" duration="870000" />
+      <workItem from="1652746280794" duration="47000" />
+      <workItem from="1652746397326" duration="329000" />
+      <workItem from="1652746784922" duration="316000" />
+      <workItem from="1652747120973" duration="451000" />
+      <workItem from="1652779565201" duration="288000" />
+      <workItem from="1652780048078" duration="223000" />
+      <workItem from="1652780815985" duration="72000" />
+      <workItem from="1652780947245" duration="26000" />
+      <workItem from="1652781035608" duration="7000" />
+      <workItem from="1652781069648" duration="6000" />
+      <workItem from="1652781116916" duration="11000" />
+      <workItem from="1652781147909" duration="10000" />
+      <workItem from="1652781183294" duration="10000" />
+      <workItem from="1652781261633" duration="10000" />
+      <workItem from="1652781314702" duration="21000" />
+      <workItem from="1652781371069" duration="29000" />
+      <workItem from="1652781432484" duration="32000" />
+      <workItem from="1652781527116" duration="18000" />
+      <workItem from="1652781583581" duration="10000" />
+      <workItem from="1652781651089" duration="62000" />
+      <workItem from="1652781745285" duration="5000" />
+      <workItem from="1652781770756" duration="10000" />
+      <workItem from="1652781797506" duration="11000" />
+      <workItem from="1652781831836" duration="8000" />
+      <workItem from="1652781894527" duration="11000" />
+      <workItem from="1652782407749" duration="23000" />
+      <workItem from="1652782491064" duration="7000" />
+      <workItem from="1652782533085" duration="15000" />
+      <workItem from="1652782649039" duration="9000" />
+      <workItem from="1652782681206" duration="23000" />
+      <workItem from="1652782937718" duration="13000" />
+      <workItem from="1652782988477" duration="11000" />
+      <workItem from="1652783023780" duration="179000" />
+      <workItem from="1652783225531" duration="3000" />
+      <workItem from="1652783267598" duration="9000" />
+      <workItem from="1652783307248" duration="35000" />
+      <workItem from="1652783366908" duration="3000" />
+      <workItem from="1652783462724" duration="11000" />
+      <workItem from="1652783528504" duration="15000" />
+      <workItem from="1652783553752" duration="16000" />
+      <workItem from="1652783607068" duration="3000" />
+      <workItem from="1652783637971" duration="11000" />
+      <workItem from="1652783664292" duration="8000" />
+      <workItem from="1652783683499" duration="4000" />
+      <workItem from="1652783719821" duration="18000" />
+      <workItem from="1652783754004" duration="7000" />
+      <workItem from="1652783906195" duration="26000" />
+      <workItem from="1652783985739" duration="21000" />
+      <workItem from="1652784012119" duration="70000" />
+      <workItem from="1652784180996" duration="58000" />
+      <workItem from="1652784261588" duration="18000" />
+      <workItem from="1652784328196" duration="245000" />
+      <workItem from="1652784853442" duration="43000" />
+      <workItem from="1652785251182" duration="35000" />
+      <workItem from="1652785417653" duration="23000" />
+      <workItem from="1652785536313" duration="1000" />
+      <workItem from="1652785592976" duration="1000" />
+      <workItem from="1652785655481" duration="1000" />
+      <workItem from="1652785669023" duration="58000" />
+      <workItem from="1652786325570" duration="25000" />
+      <workItem from="1652786368184" duration="22000" />
+      <workItem from="1652786395165" duration="6000" />
+      <workItem from="1652786418823" duration="9000" />
+      <workItem from="1652787237012" duration="12000" />
+      <workItem from="1652788477513" duration="22000" />
+      <workItem from="1652788600522" duration="24000" />
+      <workItem from="1652788801753" duration="85000" />
+      <workItem from="1652790026384" duration="23000" />
+      <workItem from="1652790580914" duration="40000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+</project>

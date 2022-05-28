@@ -1,0 +1,22 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="JavaAdvancedLesson8:war exploded">
+    <output-path>$PROJECT_DIR$/../JavaAdvancedLesson4/out/artifacts/JavaAdvancedLesson4_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="JavaAdvancedLesson8" />
+          <element id="dir-copy" path="$PROJECT_DIR$/src/main/webapp" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: jstl:jstl:1.2" />
+          <element id="library" level="project" name="Maven: mysql:mysql-connector-java:8.0.28" />
+          <element id="library" level="project" name="Maven: com.google.protobuf:protobuf-java:3.11.4" />
+          <element id="library" level="project" name="Maven: log4j:log4j:1.2.17" />
+          <element id="library" level="project" name="Maven: javax.servlet:jstl:1.2" />
+          <element id="library" level="project" name="Maven: com.google.code.gson:gson:2.9.0" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="JavaAdvancedLesson8/web/Web" />
+    </root>
+  </artifact>
+</component>

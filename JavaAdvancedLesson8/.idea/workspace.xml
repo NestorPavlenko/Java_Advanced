@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="JavaAdvancedLesson8:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e7e0df51-1fc4-4eda-acf3-b61f8724aa45" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Tag Library Descriptor" />
+        <option value="CSS File" />
+        <option value="Jsp File" />
+        <option value="JavaScript File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectId" id="29OwMYrSY4dd44muQY20PEQIdBZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\pavle\IdeaProjects\JavaAdvancedLesson8\src\main\webapp" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\pavle\IdeaProjects\JavaAdvancedLesson8\src\main\webapp" />
+      <recent name="C:\Users\pavle\IdeaProjects\JavaAdvancedLesson8" />
+      <recent name="C:\Users\pavle\IdeaProjects\JavaAdvancedLesson8\WEB-INF\classes\ua\lviv\lgs" />
+      <recent name="C:\Users\pavle\IdeaProjects\JavaAdvancedLesson8\WEB-INF" />
+      <recent name="C:\Users\pavle\IdeaProjects\JavaAdvancedLesson8\src\main\java" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 9.0.621" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.621" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="JavaAdvancedLesson8:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/JavaAdvancedLesson8_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="656ea0ad-739c-49a0-b862-3d705d3d70fe" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="57891" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="JavaAdvancedLesson8:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e7e0df51-1fc4-4eda-acf3-b61f8724aa45" name="Default Changelist" comment="" />
+      <created>1652997392487</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652997392487</updated>
+      <workItem from="1652997393569" duration="30000" />
+      <workItem from="1652997434104" duration="4000" />
+      <workItem from="1652997477202" duration="68000" />
+      <workItem from="1652997552990" duration="34000" />
+      <workItem from="1652997602103" duration="41000" />
+      <workItem from="1652997660012" duration="69000" />
+      <workItem from="1652997749280" duration="99000" />
+      <workItem from="1652997860956" duration="105000" />
+      <workItem from="1652997980451" duration="20000" />
+      <workItem from="1652998009485" duration="14000" />
+      <workItem from="1652998034557" duration="12000" />
+      <workItem from="1652998054167" duration="14000" />
+      <workItem from="1652998087479" duration="18000" />
+      <workItem from="1652998114854" duration="25000" />
+      <workItem from="1652998147262" duration="14000" />
+      <workItem from="1652998168664" duration="18000" />
+      <workItem from="1652998196331" duration="18000" />
+      <workItem from="1652998223775" duration="21000" />
+      <workItem from="1652998261293" duration="23000" />
+      <workItem from="1652998292749" duration="18000" />
+      <workItem from="1652998325780" duration="26000" />
+      <workItem from="1652998364192" duration="69000" />
+      <workItem from="1652998449560" duration="15000" />
+      <workItem from="1652998472141" duration="29000" />
+      <workItem from="1652998508794" duration="9000" />
+      <workItem from="1652998544185" duration="5000" />
+      <workItem from="1652998567236" duration="8000" />
+      <workItem from="1652998611443" duration="114000" />
+      <workItem from="1652998736713" duration="16000" />
+      <workItem from="1652998763227" duration="16000" />
+      <workItem from="1652998789796" duration="954000" />
+      <workItem from="1652999922350" duration="6000" />
+      <workItem from="1652999974574" duration="9000" />
+      <workItem from="1652999996820" duration="2000" />
+      <workItem from="1653000022943" duration="4000" />
+      <workItem from="1653000266876" duration="7000" />
+      <workItem from="1653000510024" duration="2000" />
+      <workItem from="1653000522449" duration="16000" />
+      <workItem from="1653000546432" duration="33000" />
+      <workItem from="1653000611065" duration="1000" />
+      <workItem from="1653000630581" duration="234000" />
+      <workItem from="1653000875433" duration="40000" />
+      <workItem from="1653000929581" duration="92000" />
+      <workItem from="1653001047349" duration="41000" />
+      <workItem from="1653001095109" duration="173000" />
+      <workItem from="1653001276047" duration="222000" />
+      <workItem from="1653001549710" duration="3000" />
+      <workItem from="1653001565207" duration="24000" />
+      <workItem from="1653001658675" duration="334000" />
+      <workItem from="1653002021214" duration="43000" />
+      <workItem from="1653002081065" duration="26000" />
+      <workItem from="1653002144041" duration="5000" />
+      <workItem from="1653002164779" duration="662000" />
+      <workItem from="1653002849257" duration="207000" />
+      <workItem from="1653003071866" duration="37000" />
+      <workItem from="1653003157058" duration="2000" />
+      <workItem from="1653003167642" duration="158000" />
+      <workItem from="1653003373311" duration="5000" />
+      <workItem from="1653003404737" duration="7000" />
+      <workItem from="1653003419679" duration="9136000" />
+      <workItem from="1653012702869" duration="206000" />
+      <workItem from="1653013121820" duration="65000" />
+      <workItem from="1653013232323" duration="14000" />
+      <workItem from="1653013328054" duration="315000" />
+      <workItem from="1653013713188" duration="13000" />
+      <workItem from="1653013730994" duration="2000" />
+      <workItem from="1653013740222" duration="15000" />
+      <workItem from="1653013791261" duration="24000" />
+      <workItem from="1653013833922" duration="23000" />
+      <workItem from="1653013895807" duration="15000" />
+      <workItem from="1653013934149" duration="43000" />
+      <workItem from="1653014002952" duration="102000" />
+      <workItem from="1653014165892" duration="41000" />
+      <workItem from="1653014270971" duration="45000" />
+      <workItem from="1653014435561" duration="31000" />
+      <workItem from="1653014574599" duration="43000" />
+      <workItem from="1653014668793" duration="93000" />
+      <workItem from="1653014819838" duration="21000" />
+      <workItem from="1653014887309" duration="14000" />
+      <workItem from="1653014918091" duration="511000" />
+      <workItem from="1653015438686" duration="23000" />
+      <workItem from="1653015469159" duration="131000" />
+      <workItem from="1653015661054" duration="140000" />
+      <workItem from="1653015838580" duration="72000" />
+      <workItem from="1653015961814" duration="153000" />
+      <workItem from="1653016262977" duration="4826000" />
+      <workItem from="1653047942238" duration="8020000" />
+      <workItem from="1653140272418" duration="4370000" />
+      <workItem from="1653145295919" duration="14735000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
